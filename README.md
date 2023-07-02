@@ -2,7 +2,7 @@
 
 Follow the instructions to execute each project
 
-## Chart Project
+## Rock-Paper-Scissors Game Project
 
 ```sh
 cd game
